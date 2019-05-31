@@ -1,0 +1,16 @@
+{
+  "name": "LibraryDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/custom-valerie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.32.2"
+  }
+}
